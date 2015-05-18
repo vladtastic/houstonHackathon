@@ -8,7 +8,7 @@ from time import gmtime, strftime, localtime
 username = 'airalliancehackaton'
 password = 'h@ck4ch@nge'
 fromaddr = 'airalliancehackaton@gmail.com'
-toaddrs  = '7138854350@tmomail.net'
+toaddrs  = '0000000000@tmomail.net'
 
 
 def recordExtractor(url):
